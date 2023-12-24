@@ -1,4 +1,4 @@
-## Project Title: MyShop
+## Project Title: MyShop Ecommerce Store
 
 ### Technologies Used:
 <ul>
