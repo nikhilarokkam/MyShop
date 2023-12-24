@@ -29,6 +29,6 @@ MyShop is a fully functional Ecommerce store that allows users to register, log 
 ### Shopping Cart Page
 ![screencapture-127-0-0-1-5000-carts-2023-12-24-16_25_17](https://github.com/nikhilarokkam/MyShop/assets/115566678/d8b77fc5-f95b-47d6-a3e9-ccf8d1cb5069)
 ### Order Page
-![screencapture-127-0-0-1-5000-orders-03b31b0a53-2023-12-24-16_26_38](https://github.com/nikhilarokkam/MyShop/assets/115566678/641cf038-5550-4d64-9121-d02c0fd7fd85)
-### Stripe Payment Page
 ![screencapture-127-0-0-1-5000-orders-03b31b0a53-2023-12-24-16_25_54](https://github.com/nikhilarokkam/MyShop/assets/115566678/b2a32d9c-f86f-4d73-bf33-e3e6279a734a)
+### Stripe Payment Page
+![screencapture-127-0-0-1-5000-orders-03b31b0a53-2023-12-24-16_26_38](https://github.com/nikhilarokkam/MyShop/assets/115566678/641cf038-5550-4d64-9121-d02c0fd7fd85)
