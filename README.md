@@ -22,9 +22,9 @@ MyShop is a fully functional Ecommerce store that allows users to register, log 
 </ol>
 
 ## Screenshots
-### Home Page
-![screencapture-localhost-5173-2023-12-16-19_55_42](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/628ed0a1-90bd-4680-a2ec-dc97fe6bf1f4)
-### Gigs Page
+### Products Page
+![screencapture-127-0-0-1-5000-2023-12-24-16_23_02](https://github.com/nikhilarokkam/MyShop/assets/115566678/8276f4ae-0229-435f-a732-38929f4cb5a9)
+### Product Details Page
 ![screencapture-localhost-5173-gigs-2023-12-16-22_06_01](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/f8e6bdbb-4b21-4abe-bbeb-bd2d173d5433)
 ### Single Gig Details and Reviews Page
 ![screencapture-localhost-5173-gig-6489115eaf7d1edaef250e32-2023-12-16-22_08_05](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/30bdb6a5-de2a-4746-ba21-9405b6b3c3da)
