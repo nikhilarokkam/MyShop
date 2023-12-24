@@ -27,8 +27,8 @@ MyShop is a fully functional Ecommerce store that allows users to register, log 
 ### Product Details Page
 ![screencapture-127-0-0-1-5000-product-6-2023-12-24-16_24_16](https://github.com/nikhilarokkam/MyShop/assets/115566678/87539501-f71b-47c1-8aea-5d6b6c58f6d8)
 ### Shopping Cart Page
-![screencapture-localhost-5173-gig-6489115eaf7d1edaef250e32-2023-12-16-22_08_05](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/30bdb6a5-de2a-4746-ba21-9405b6b3c3da)
-### Real-time communication through chat functionality
+![screencapture-127-0-0-1-5000-carts-2023-12-24-16_25_17](https://github.com/nikhilarokkam/MyShop/assets/115566678/d8b77fc5-f95b-47d6-a3e9-ccf8d1cb5069)
+### Order Page
 ![screencapture-localhost-5173-message-64890d39af7d1edaef250e1264893d6e50ad2c862fa29a6c-2023-12-16-22_10_20](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/11307ab8-a513-42a0-be2f-d129cc432ca0)
-### Orders Page
+### Stripe Payment Page
 ![screencapture-localhost-5173-orders-2023-12-16-22_12_52](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/0a416c45-a87f-48d5-be08-0f61227336d9)
